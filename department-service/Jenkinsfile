@@ -35,7 +35,7 @@ spec:
     CREDS = credentials('nuha_docker_creds')
     DOCKER_NAMESPACE = 'nbaghanim'
     SERVICE_NAME = 'department-service'
-    TOKEN=credentials('9ee22bab-8faa-48e4-b241-0a57a333b54a')
+    TOKEN=credentials('d641a09c-fc7e-4bab-8a0c-41c3de77b375')
   }
   stages {
       stage("Build") {
