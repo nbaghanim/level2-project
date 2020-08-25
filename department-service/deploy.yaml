@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: department-service
-        image: nbaghanim/department-service
+        image: nuha/department-service
         ports:
         - containerPort: 80
